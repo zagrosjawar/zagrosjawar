@@ -1,7 +1,7 @@
 ## Hi There!👋
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="mobile-phone-1419275.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="mobile-phone-1419275.jpg">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 

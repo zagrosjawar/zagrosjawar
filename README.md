@@ -38,11 +38,11 @@ English, Norwegian Bokmål, Kurdish Kurmaji and Arabic.
 ---
 ## My Favorite Quotes
 >"The only person you are destined to become is the person you decide to be." 
-- Ralph Waldo Emerson
+- [Ralph Waldo Emerson](https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson)
 
 >"The only way to do great work is to love what you do." 
-- Steve Jobs  
-Note: Steve Jobs, co-founder of Apple Inc., said this quote during his Stanford University commencement speech in 2005.
+- [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs#1985–1997)
+Note: Steve Jobs, co-founder of Apple Inc., said this quote during his [Stanford University commencement speech in 2005.](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
 ---
 
 

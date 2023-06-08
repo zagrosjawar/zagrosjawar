@@ -20,6 +20,14 @@ Hi again! With four years of experience as a primary school teacher, a backgroun
 |     4| CSS          |
 |     5| SQL          |
 |     6| Python/Django|
+|     7| Python/Scrapy|
+|     8| Python/spaCy |
+|     9| Python/Selenium |
+|     10| Python/networkx|
+
+
+
+
 
  </details>
  

@@ -22,6 +22,7 @@ Hi again! With four years of experience as a primary school teacher, a backgroun
 |     6| Python/Django|
 
  </details>
+ 
 ## I speak
 English, Norwegian Bokmål, Kurdish Kurmaji and Arabic.
 

@@ -1,8 +1,9 @@
 ## Hi There!👋
+
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="mobile-phone-1419275.jpg">
- <source media="(prefers-color-scheme: light)" srcset="mobile-phone-1419275.jpg">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="banner2-5200266_640.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="banner3-5200266_640.jpg">
+ <img alt="YOUR-ALT-TEXT" src="banner1-5200266_640.jpg">
 </picture>
 
 <!---

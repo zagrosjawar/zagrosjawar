@@ -1,4 +1,3 @@
-## Hi There!👋
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="banner2-5200266.jpg">

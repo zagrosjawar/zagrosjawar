@@ -6,7 +6,7 @@
 </picture>
 
 ## About me
-Hi! With four years of experience as a primary school teacher, a background in law from the University of Aleppo, and currently pursuing a degree in Information Science at the University of Bergen (UiB) set to graduate in the fall of 2023, I am an unwaveringly persistent and disciplined individual committed to continuous learning and personal growth.
+Hi! With four years of experience as a primary school teacher, a background in law from the University of Aleppo, a bachelor degree 2023 in Information Science at the University of Bergen (UiB) and pursuing the third bachelor degree in media and interaction design at the university of Bergen, I am an unwaveringly persistent and disciplined individual committed to continuous learning and personal growth.
 
 <details open>
  <summary> My coding/marking..languages</summary>

@@ -23,6 +23,7 @@ Hi! With four years of experience as a primary school teacher, a background in l
 |     8| Python/spaCy |
 |     9| Python/Selenium |
 |     10| Python/networkx|
+|     11| Figma|
 
 
 

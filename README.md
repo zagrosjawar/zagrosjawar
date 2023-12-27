@@ -11,19 +11,20 @@ Hi! With four years of experience as a primary school teacher, a background in l
 <details open>
  <summary> My coding/marking..languages</summary>
  
-| Rank | Languages    |
+| Rank | Languages/tools/libraries/frameworks|
 |-----:|--------------|
 |     1| Python       |
 |     2| JavaScript.  |
 |     3| HTML5        |
 |     4| CSS          |
 |     5| SQL          |
-|     6| Python/Django|
+|     6| Python/Django & Flask|
 |     7| Python/Scrapy|
 |     8| Python/spaCy |
 |     9| Python/Selenium |
 |     10| Python/networkx|
 |     11| Figma|
+|     12| Git and GitHub|
 
 
 

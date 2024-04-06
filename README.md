@@ -1,9 +1,8 @@
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="myWorkspace.jpg">
- <source media="(prefers-color-scheme: light)" srcset="myWorkspace.jpg">
- <img alt="A silver colored round ball composed of a group of small round balls, there is a small glitter on the ball. " src="myWorkspace.jpg">
-</picture>
+
+
+<img src="myWorkspace.jpg" width="100" height="100">
+
 
 ## About me
 With a rich background ranging from law at the University of Aleppo to Information Science at the University of Bergen, I've evolved through diverse roles—from a primary school teacher to an experienced freelance interpreter. 

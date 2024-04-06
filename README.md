@@ -49,7 +49,6 @@ English, Norwegian Bokmål, Kurdish Kurmaji and Arabic.
 
 >"The only way to do great work is to love what you do." 
 - [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs#1985–1997)
-Note: Steve Jobs, co-founder of Apple Inc., said this quote during his [Stanford University commencement speech in 2005.](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
 ---
 
 

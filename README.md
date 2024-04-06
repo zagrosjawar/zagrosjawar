@@ -1,6 +1,6 @@
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="banner2-5200266.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="myWorkspace.jpg">
  <source media="(prefers-color-scheme: light)" srcset="banner3-5200266_1920.jpg">
  <img alt="A silver colored round ball composed of a group of small round balls, there is a small glitter on the ball. " src="banner1-5200266_640.jpg">
 </picture>

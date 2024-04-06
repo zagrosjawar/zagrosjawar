@@ -6,7 +6,13 @@
 </picture>
 
 ## About me
-Hi! With four years of experience as an interpreter (present), primary school teacher, a background in law from the University of Aleppo, a bachelor degree 2023 in Information Science at the University of Bergen (UiB) and pursuing the third bachelor degree in media and interaction design (present) at the university of Bergen, I am an unwaveringly persistent and disciplined individual committed to continuous learning and personal growth.
+With a rich background ranging from law at the University of Aleppo to Information Science at the University of Bergen, I've evolved through diverse roles—from a primary school teacher to an experienced freelance interpreter. 
+
+Currently, I'm expanding my expertise into media and interaction design, aiming for a third bachelor's degree. 
+
+My journey reflects a disciplined commitment to continuous learning and personal growth. 
+
+As a team-oriented problem solver, I'm eager to dive into UX/UI, front-end, back-end, or full-stack opportunities, always striving to exceed expectations and gain comprehensive experience.
 
 <details open>
  <summary> My coding/marking..languages</summary>

@@ -1,7 +1,7 @@
 
 
 
-<img src="myWorkspace.jpg" width="80%" height="400">
+<img src="myWorkspace.jpg" width="80%" height="500" style="margin:auto;">
 
 
 ## About me

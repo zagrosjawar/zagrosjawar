@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img src="banner.png" width="80%" height="500" style="margin:auto;">
+<img src="banner.png" width="80%" height="250" style="margin:auto;">
 <div>
 
 

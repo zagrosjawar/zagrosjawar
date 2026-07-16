@@ -10,7 +10,7 @@ Currently, I'm expanding my expertise into media and interaction design, aiming 
 
 My journey reflects a disciplined commitment to continuous learning and personal growth. 
 
-As a team-oriented problem solver, I'm eager to dive into UX/UI, front-end, back-end, or full-stack opportunities, always striving to exceed expectations and gain comprehensive experience.
+As a team-oriented problem solver, I'm eager to dive into UX/U or/and developement opportunities.
 
 <details open>
  <summary>My coding/marking languages</summary>

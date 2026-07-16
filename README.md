@@ -4,7 +4,7 @@
 
 ## About me
 
-With a rich background ranging from law at the University of Aleppo to Information Science at the University of Bergen, I've evolved through diverse roles—from a primary school teacher to an experienced freelance interpreter. 
+With a background ranging from law at the University of Aleppo to Information Science at the University of Bergen, I've evolved through diverse roles—from a primary school teacher to an experienced freelance interpreter. 
 
 Currently, I'm expanding my expertise into media and interaction design, aiming for a third bachelor's degree. 
 

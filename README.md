@@ -23,18 +23,15 @@ As a team-oriented problem solver, I'm eager to dive into UX/UI, front-end, back
 |     4| CSS                                  |
 |     5| SQL                                  |
 |     6| Python/Django & Flask                |
-|     7| Python/Scrapy                        |
-|     8| Python/spaCy                         |
-|     9| Python/Selenium                      |
-|    10| Python/networkx                      |
-|    11| Figma                                |
+|     7| Libraries:Scrapy,Spacy,Selenium,Networkx|
+|    11| Figma, Framer, AI Productivity tools         |
 |    12| Git and GitHub                       |
 
 </details>
 
 ## I speak
 
-English, Norwegian Bokmål, Kurdish Kurmaji, and Arabic.
+English, Norwegian, Kurdish, and Arabic.
 
 ---
 

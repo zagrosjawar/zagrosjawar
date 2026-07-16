@@ -15,17 +15,16 @@ As a team-oriented problem solver, I'm eager to dive into UX/UI, front-end, back
 <details open>
  <summary>My coding/marking languages</summary>
  
-| Rank | Languages/tools/libraries/frameworks |
-|-----:|--------------------------------------|
-|     1| Python                               |
-|     2| JavaScript                           |
-|     3| HTML5                                |
-|     4| CSS                                  |
-|     5| SQL                                  |
-|     6| Python/Django & Flask                |
-|     7| Libraries:Scrapy,Spacy,Selenium,Networkx|
-|    11| Figma, Framer, AI Productivity tools         |
-|    12| Git and GitHub                       |
+| Languages/tools/libraries/frameworks |
+|--------------------------------------|
+| HTML5                               |
+| CSS3                           |
+| JavaScript                                |
+| Python/Django & Flask                                  |
+| SQL                                  |
+| Libraries:Scrapy,Spacy,Selenium,Networkx|
+| Figma, Framer, AI Productivity tools, VScode..etc          |
+| Git and GitHub                       |
 
 </details>
 

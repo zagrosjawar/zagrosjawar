@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" width="80%" height="250" style="margin:auto;">
+  <img src="banner.png" width="1565" height="736" style="margin:auto;">
 </div>
 
 ## About me

@@ -4,45 +4,31 @@
 
 ## About me
 
-With a background ranging from law at the University of Aleppo to Information Science at the University of Bergen, I've evolved through diverse roles—from a primary school teacher to an experienced freelance interpreter. 
+I'm a UX/UI designer based in Bergen, Norway — currently a Research Assistant at MediaFutures, and open to junior UX/UI roles.
 
-Currently, I'm expanding my expertise into media and interaction design, aiming for a third bachelor's degree. 
+I hold two bachelor's degrees from the University of Bergen: Information Science and Media and Interaction Design. My path into design started with curiosity about how digital Norway actually is — BankID, MinID, everyday services — and grew from there into research, prototyping, and building real products.
 
-My journey reflects a disciplined commitment to continuous learning and personal growth. 
+I design and build: my [portfolio](https://zagrosjawar.com) is hand-coded, and my case studies cover AI, health information, and design-to-development handoff.
 
-As a team-oriented problem solver, I'm eager to dive into UX/U or/and developement opportunities.
+## Skills
 
-<details open>
- <summary>My coding/marking languages</summary>
- 
-| Languages/tools/libraries/frameworks |
-|--------------------------------------|
-| HTML5                               |
-| CSS3                           |
-| JavaScript                                |
-| Python/Django & Flask                                  |
-| SQL                                  |
-| Libraries:Scrapy,Spacy,Selenium,Networkx|
-| Figma, Framer, AI Productivity tools, VScode..etc          |
-| Git and GitHub                       |
+|| Design | Build | Tools |
+|---|---|---|
+| User research | HTML5 | Figma |
+| Information architecture | CSS3 | Canva |
+| Prototyping | JavaScript | VS Code |
+| Interaction design | TypeScript | Responsible use of AI tools |
+| Usability testing | Python | |
+| Accessibility | SQL, Git | |
 
-</details>
+## Languages
 
-## I speak
+Norwegian, English, Kurdish, Arabic
 
-English, Norwegian, Kurdish, and Arabic.
+## Links
 
----
-
-## My Favorite Quotes
-
->"The only person you are destined to become is the person you decide to be." 
-- [Ralph Waldo Emerson](https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson)
-
->"The only way to do great work is to love what you do." 
-- [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs#1985–1997)
-
----
+- Portfolio: [zagrosjawar.com](https://zagrosjawar.com)
+- LinkedIn: [linkedin.com/in/zagrosjawar](https://www.linkedin.com/in/zagrosjawar/)
 
 <!---
 zagrosjawar/zagrosjawar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

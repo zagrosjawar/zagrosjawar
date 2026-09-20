@@ -6,11 +6,19 @@
 
 ## About me
 
-I'm a UX/UI designer based in Bergen, Norway — currently a Research Assistant at MediaFutures, and open to junior UX/UI roles.
-
-I hold two bachelor's degrees from the University of Bergen: Information Science and Media and Interaction Design. My path into design started with curiosity about how digital Norway actually is — BankID, MinID, everyday services — and grew from there into research, prototyping, and building real products.
-
-I design and build: my [portfolio](https://zagrosjawar.com) is hand-coded, and my case studies cover AI, health information, and design-to-development handoff.
+> I'm a UX/UI designer based in Bergen, Norway, currently a Research Assistant at MediaFutures on the CuratedAI project.
+>
+> 
+> I hold two bachelor's degrees from the University of Bergen, Information Science and Media and Interaction Design, a combination that grounds my UX/UI work in both technical systems and human-centered design.
+>
+> 
+> In my bachelor's thesis, I worked in a group of five students in collaboration with MediaFutures to develop VITAL, an AI tool for analyzing health and lifestyle news. It verifies claims based on context, drawing on a large set of already verified news articles, and also analyzes bias and sentiment.
+>
+> 
+> I'm interested in AI transparency, trust in AI powered products, fact checking and verification, and how design can make complex systems understandable.
+>
+> 
+> I design and build: my [portfolio](https://zagrosjawar.com) is hand-coded, and my case studies cover AI, health information, and design to development handoff.
 
 ## Skills
 

@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="banner.png" width="1565" height="736" style="margin:auto;">
+  <a href="https://zagrosjawar.com" target="_blank">
+    <img src="banner.png" width="1565" height="736" style="margin:auto;">
+  </a>
 </div>
 
 ## About me

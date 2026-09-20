@@ -12,7 +12,7 @@ I design and build: my [portfolio](https://zagrosjawar.com) is hand-coded, and m
 
 ## Skills
 
-|| Design | Build | Tools |
+| Design | Build | Tools |
 |---|---|---|
 | User research | HTML5 | Figma |
 | Information architecture | CSS3 | Canva |
@@ -29,6 +29,7 @@ Norwegian, English, Kurdish, Arabic
 
 - Portfolio: [zagrosjawar.com](https://zagrosjawar.com)
 - LinkedIn: [linkedin.com/in/zagrosjawar](https://www.linkedin.com/in/zagrosjawar/)
+- Facebook: [facebook.com/profile.php?id=61590391716404](https://www.facebook.com/profile.php?id=61590391716404)
 
 <!---
 zagrosjawar/zagrosjawar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
